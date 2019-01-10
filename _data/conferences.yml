@@ -232,3 +232,13 @@
   date: June 2-7, 2019
   place: Minneapolis, USA
   sub: NLP
+
+- title: ISSCC
+  year: 2019
+  id: ISSCC19
+  link: http://isscc.org/
+  deadline: '2018-9-10 17:00:00'
+  timezone: Etc/GMT+12
+  date: February 17-21, 2019
+  place: San Francisco, USA
+  sub: SSC
